@@ -44,4 +44,3 @@ It will ask:
 📁 Enter destination folder path: C:\Users\YourName\Pictures\JPGs
 
 
-
